@@ -11,4 +11,3 @@ def draw_firestation():
     
     return
 
-draw_firestation()
