@@ -1,3 +1,12 @@
 def draw_policestation():
-    print("police station not found")
+    
+    for i in range(1,10):
+        print("***************")
+        
+    print("****POLICE_STATION****")
+    
+    for j in range(1,10):
+        print("***************")
+   
+    
     return
