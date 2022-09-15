@@ -1,3 +1,14 @@
 def draw_firestation():
-    print("fire station not found")
+    
+    for i in range(1,10):
+        print("***************")
+        
+    print("****FIRESTATION****")
+    
+    for i in range(1,10):
+        print("***************")
+   
+    
     return
+
+draw_firestation()
